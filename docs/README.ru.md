@@ -1,5 +1,3 @@
----
-
 # 🌈 Caelestia Stylix Sync
 
 **Автоматическая синхронизация цветовой схемы между Caelestia и Stylix в NixOS**
